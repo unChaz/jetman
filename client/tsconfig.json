@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": true,
+        "outDir": "../compiled/client"
+    },
+    "filesGlob": [
+        "*.ts",
+        "**/*.ts"
+    ],
+    "files": [
+        "app.ts",
+        "controllers/users.ts",
+        "services/apiService.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
+}
