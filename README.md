@@ -16,9 +16,9 @@ With a little bit of Gulp, Bower, and SCSS.
 With this application, want to focus on:
 
 - A common sense approach to directory structure mirroring endpoints.
-- Zero magical functionality that is difficult to understand.
-- Strongly typed classes to hold true to conventions and easy to debug code.
-- Interchangeable parts including the ability to swap out database types by simply extending a different parent class on the model.
+- Zero "magic" that makes code difficult to understand.
+- Strongly typed classes to hold true to conventions and for easy to write and debug code.
+- Interchangeable parts including the ability to swap out databases by simply extending a different parent class on the model.
 - Experimenting with Angular 2.
 
 #### Note:
